@@ -2,7 +2,7 @@
 Immersive XR platform utilising state-of-the-art AI (ML &amp;LLM), HCI (XR/Visualisation), Graphics techniques for AEC Industry.
 Supported by the [Albert Lück-Stiftung](https://albert-lueck-stiftung.ch/).
 
-![Description of image](image.png)
+![XR Platform Overview](xr_platform_overview.png)
 
 ## Hardware XR-HMD Compatability
 The XR platform is compatible with the following hardware: MS Hololens 2, META Quest 3, Apple Vision Pro (AVP). Nonetheless, please observe that the XR platform was tested with the following firmware versions respectivelly: TBD.
